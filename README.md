@@ -70,8 +70,3 @@ The program handles problems gracefully and shows a clear message instead of cra
 - Withdrawing or transferring more than the available balance
 - Trying to add interest to a non-Savings account
 - Entering an invalid menu choice
-
----
---# 📄 License
-
-This project is for educational purposes. Add a license of your choice (for example MIT) before publishing.
